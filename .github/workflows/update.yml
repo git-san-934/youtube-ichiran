@@ -1,0 +1,39 @@
+name: 動画データ更新
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6時間おき（UTC）＝ 日本時間 0/6/12/18時ごろ
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-videos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: RSSを取得して videos.json を更新
+        run: python scripts/update.py
+
+      - name: 変更があればコミットして push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/videos.json; then
+            echo "変更なし"
+          else
+            git add data/videos.json
+            git commit -m "chore: 動画データ更新 ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
