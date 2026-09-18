@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-18T05:53:53+09:00",
+ "updated_at": "2026-09-18T11:55:11+09:00",
  "channels": [
   {
    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
@@ -1540,20 +1540,6 @@
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
   {
-   "video_id": "vLU65CNOJ5Y",
-   "url": "https://www.youtube.com/watch?v=vLU65CNOJ5Y",
-   "title": "【繊維業界の再生】アトツギ×スタートアップが生む共創とは？｜岩田真吾（三星グループ）× 田村淳【XU クロスユー】",
-   "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
-   "channel": "XU (クロスユー) - X innovation empowers U",
-   "published_at": "2026-09-11T09:00:31+00:00",
-   "thumbnail": "https://i3.ytimg.com/vi/vLU65CNOJ5Y/hqdefault.jpg",
-   "views": 2453,
-   "views_updated_at": "2026-09-18T05:53:53+09:00",
-   "rating_count": 20,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-09-11T21:10:13+09:00"
-  },
-  {
    "video_id": "tWppwKECbS0",
    "url": "https://www.youtube.com/watch?v=tWppwKECbS0",
    "title": "1581回　沖縄県知事選の行方　賭け市場から見ると･･･",
@@ -1564,6 +1550,20 @@
    "views": 932602,
    "views_updated_at": "2026-09-18T05:53:53+09:00",
    "rating_count": 2772,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-09-11T21:10:13+09:00"
+  },
+  {
+   "video_id": "vLU65CNOJ5Y",
+   "url": "https://www.youtube.com/watch?v=vLU65CNOJ5Y",
+   "title": "【繊維業界の再生】アトツギ×スタートアップが生む共創とは？｜岩田真吾（三星グループ）× 田村淳【XU クロスユー】",
+   "channel_id": "UCJaxZOXs4SMjaxhcee2N5Aw",
+   "channel": "XU (クロスユー) - X innovation empowers U",
+   "published_at": "2026-09-11T09:00:31+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vLU65CNOJ5Y/hqdefault.jpg",
+   "views": 2453,
+   "views_updated_at": "2026-09-18T05:53:53+09:00",
+   "rating_count": 20,
    "rating_avg": 5.0,
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
