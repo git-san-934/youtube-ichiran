@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02T07:16:15+09:00",
+ "updated_at": "2026-10-02T12:47:54+09:00",
  "channels": [
   {
    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
@@ -5152,20 +5152,6 @@
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
   {
-   "video_id": "tWppwKECbS0",
-   "url": "https://www.youtube.com/watch?v=tWppwKECbS0",
-   "title": "1581回　沖縄県知事選の行方　賭け市場から見ると･･･",
-   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-   "channel": "髙橋洋一チャンネル",
-   "published_at": "2026-09-11T09:00:31+00:00",
-   "thumbnail": "https://i1.ytimg.com/vi/tWppwKECbS0/hqdefault.jpg",
-   "views": 937333,
-   "views_updated_at": "2026-09-26T06:01:45+09:00",
-   "rating_count": 11751,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-09-11T21:10:13+09:00"
-  },
-  {
    "video_id": "vLU65CNOJ5Y",
    "url": "https://www.youtube.com/watch?v=vLU65CNOJ5Y",
    "title": "【繊維業界の再生】アトツギ×スタートアップが生む共創とは？｜岩田真吾（三星グループ）× 田村淳【XU クロスユー】",
@@ -5176,6 +5162,20 @@
    "views": 2728,
    "views_updated_at": "2026-09-25T20:00:46+09:00",
    "rating_count": 37,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-09-11T21:10:13+09:00"
+  },
+  {
+   "video_id": "tWppwKECbS0",
+   "url": "https://www.youtube.com/watch?v=tWppwKECbS0",
+   "title": "1581回　沖縄県知事選の行方　賭け市場から見ると･･･",
+   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+   "channel": "髙橋洋一チャンネル",
+   "published_at": "2026-09-11T09:00:31+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/tWppwKECbS0/hqdefault.jpg",
+   "views": 937333,
+   "views_updated_at": "2026-09-26T06:01:45+09:00",
+   "rating_count": 11751,
    "rating_avg": 5.0,
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
