@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10T07:10:12+09:00",
+ "updated_at": "2026-10-10T13:03:26+09:00",
  "channels": [
   {
    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
@@ -4130,20 +4130,6 @@
    "first_seen_at": "2026-09-25T01:23:06+09:00"
   },
   {
-   "video_id": "PFe6zbTDcGQ",
-   "url": "https://www.youtube.com/watch?v=PFe6zbTDcGQ",
-   "title": "【マネジメント技術大全⑨：対話の技術】ティーチングの6つの手法／教える罠／コーチングとヒアリングの違い／話しやすい場づくり／コーチングの２つの基本／「マネジメント＝コーチング」ではない",
-   "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
-   "channel": "PIVOT 公式チャンネル",
-   "published_at": "2026-09-24T22:00:13+00:00",
-   "thumbnail": "https://i1.ytimg.com/vi/PFe6zbTDcGQ/hqdefault.jpg",
-   "views": 54093,
-   "views_updated_at": "2026-09-27T05:35:07+09:00",
-   "rating_count": 177,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-09-25T20:00:46+09:00"
-  },
-  {
    "video_id": "5B0tws0jnws",
    "url": "https://www.youtube.com/watch?v=5B0tws0jnws",
    "title": "【共感】芸人 中山功太が本音で語る「人は外見だと思う」 #shorts #お笑い #正直サミット #さらば青春の光",
@@ -4156,6 +4142,20 @@
    "rating_count": 53,
    "rating_avg": 5.0,
    "first_seen_at": "2026-09-25T12:09:44+09:00"
+  },
+  {
+   "video_id": "PFe6zbTDcGQ",
+   "url": "https://www.youtube.com/watch?v=PFe6zbTDcGQ",
+   "title": "【マネジメント技術大全⑨：対話の技術】ティーチングの6つの手法／教える罠／コーチングとヒアリングの違い／話しやすい場づくり／コーチングの２つの基本／「マネジメント＝コーチング」ではない",
+   "channel_id": "UC8yHePe_RgUBE-waRWy6olw",
+   "channel": "PIVOT 公式チャンネル",
+   "published_at": "2026-09-24T22:00:13+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/PFe6zbTDcGQ/hqdefault.jpg",
+   "views": 54093,
+   "views_updated_at": "2026-09-27T05:35:07+09:00",
+   "rating_count": 177,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-09-25T20:00:46+09:00"
   },
   {
    "video_id": "H7eQ0XmHUjQ",
