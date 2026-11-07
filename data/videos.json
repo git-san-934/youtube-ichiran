@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-07T07:39:27+09:00",
+ "updated_at": "2026-11-07T13:22:15+09:00",
  "channels": [
   {
    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
@@ -2646,20 +2646,6 @@
    "first_seen_at": "2026-10-28T21:00:25+09:00"
   },
   {
-   "video_id": "dIQ4m5iU6f0",
-   "url": "https://www.youtube.com/watch?v=dIQ4m5iU6f0",
-   "title": "1613回　政府がサイバー攻撃対応を協議　金融機関が危機に！",
-   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-   "channel": "髙橋洋一チャンネル",
-   "published_at": "2026-10-28T09:00:20+00:00",
-   "thumbnail": "https://i1.ytimg.com/vi/dIQ4m5iU6f0/hqdefault.jpg",
-   "views": 857423,
-   "views_updated_at": "2026-11-07T07:39:27+09:00",
-   "rating_count": 10917,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-10-28T21:00:25+09:00"
-  },
-  {
    "video_id": "cfSD0VroOWE",
    "url": "https://www.youtube.com/watch?v=cfSD0VroOWE",
    "title": "GMOハッキング、抜き打ちチェックを出す側の自社はダメダメ? #GMO #ハッキング #もふもふ不動産",
@@ -2670,6 +2656,20 @@
    "views": 5478,
    "views_updated_at": "2026-11-04T07:49:00+09:00",
    "rating_count": 30,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-10-28T21:00:25+09:00"
+  },
+  {
+   "video_id": "dIQ4m5iU6f0",
+   "url": "https://www.youtube.com/watch?v=dIQ4m5iU6f0",
+   "title": "1613回　政府がサイバー攻撃対応を協議　金融機関が危機に！",
+   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+   "channel": "髙橋洋一チャンネル",
+   "published_at": "2026-10-28T09:00:20+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/dIQ4m5iU6f0/hqdefault.jpg",
+   "views": 857423,
+   "views_updated_at": "2026-11-07T07:39:27+09:00",
+   "rating_count": 10917,
    "rating_avg": 5.0,
    "first_seen_at": "2026-10-28T21:00:25+09:00"
   },
