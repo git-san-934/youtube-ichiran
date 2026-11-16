@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T07:25:44+09:00",
+ "updated_at": "2026-11-16T13:29:57+09:00",
  "channels": [
   {
    "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
@@ -2674,20 +2674,6 @@
    "first_seen_at": "2026-11-06T22:39:47+09:00"
   },
   {
-   "video_id": "ctqM7LAZ5So",
-   "url": "https://www.youtube.com/watch?v=ctqM7LAZ5So",
-   "title": "【特番】タレコミスペシャル〜10月のタレコミを一挙公開！（#524）",
-   "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
-   "channel": "センキョタイムズ",
-   "published_at": "2026-11-06T10:00:14+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/ctqM7LAZ5So/hqdefault.jpg",
-   "views": 85907,
-   "views_updated_at": "2026-11-14T08:10:30+09:00",
-   "rating_count": 1850,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-11-06T22:39:47+09:00"
-  },
-  {
    "video_id": "FqHWq90oE5w",
    "url": "https://www.youtube.com/watch?v=FqHWq90oE5w",
    "title": "人間ゼロで働く工場、不気味すぎてヤバイ。　#さらば青春の光の100億円プロジェクト",
@@ -2698,6 +2684,20 @@
    "views": 1813,
    "views_updated_at": "2026-11-13T04:28:04+09:00",
    "rating_count": 2,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-11-06T22:39:47+09:00"
+  },
+  {
+   "video_id": "ctqM7LAZ5So",
+   "url": "https://www.youtube.com/watch?v=ctqM7LAZ5So",
+   "title": "【特番】タレコミスペシャル〜10月のタレコミを一挙公開！（#524）",
+   "channel_id": "UCk5ADs9g7nim-75LsY1sxVA",
+   "channel": "センキョタイムズ",
+   "published_at": "2026-11-06T10:00:14+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/ctqM7LAZ5So/hqdefault.jpg",
+   "views": 85907,
+   "views_updated_at": "2026-11-14T08:10:30+09:00",
+   "rating_count": 1850,
    "rating_avg": 5.0,
    "first_seen_at": "2026-11-06T22:39:47+09:00"
   },
@@ -16548,20 +16548,6 @@
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
   {
-   "video_id": "tWppwKECbS0",
-   "url": "https://www.youtube.com/watch?v=tWppwKECbS0",
-   "title": "1581回　沖縄県知事選の行方　賭け市場から見ると･･･",
-   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
-   "channel": "髙橋洋一チャンネル",
-   "published_at": "2026-09-11T09:00:31+00:00",
-   "thumbnail": "https://i1.ytimg.com/vi/tWppwKECbS0/hqdefault.jpg",
-   "views": 937333,
-   "views_updated_at": "2026-09-26T06:01:45+09:00",
-   "rating_count": 11751,
-   "rating_avg": 5.0,
-   "first_seen_at": "2026-09-11T21:10:13+09:00"
-  },
-  {
    "video_id": "vLU65CNOJ5Y",
    "url": "https://www.youtube.com/watch?v=vLU65CNOJ5Y",
    "title": "【繊維業界の再生】アトツギ×スタートアップが生む共創とは？｜岩田真吾（三星グループ）× 田村淳【XU クロスユー】",
@@ -16572,6 +16558,20 @@
    "views": 2728,
    "views_updated_at": "2026-09-25T20:00:46+09:00",
    "rating_count": 37,
+   "rating_avg": 5.0,
+   "first_seen_at": "2026-09-11T21:10:13+09:00"
+  },
+  {
+   "video_id": "tWppwKECbS0",
+   "url": "https://www.youtube.com/watch?v=tWppwKECbS0",
+   "title": "1581回　沖縄県知事選の行方　賭け市場から見ると･･･",
+   "channel_id": "UCECfnRv8lSbn90zCAJWC7cg",
+   "channel": "髙橋洋一チャンネル",
+   "published_at": "2026-09-11T09:00:31+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/tWppwKECbS0/hqdefault.jpg",
+   "views": 937333,
+   "views_updated_at": "2026-09-26T06:01:45+09:00",
+   "rating_count": 11751,
    "rating_avg": 5.0,
    "first_seen_at": "2026-09-11T21:10:13+09:00"
   },
